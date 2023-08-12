@@ -7,3 +7,8 @@ Welcome to my personal reading list repository! This repository is dedicated to 
     <!-- <li><input type="checkbox" disabled checked> Clean Code by Robert Cecil Martin</li> -->
     <li><input type="checkbox" disabled> Clean Code <text style='font-size:x-small'>by Robert Cecil Martin </text></li>
 </ul>
+
+[ ] Incomplete _task_
+- [x] Completed **task**
+  - [ ] Incomplete ~~subtask~~
+  - [x] Completed subtask
